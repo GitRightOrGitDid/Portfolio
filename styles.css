@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	border: 1px solid black;
+}
+
+ul {
+	list-style: none;
+}
+
+section{
+	margin-bottom: 30px;
+}
+
+nav{
+	background-color: black;
+	position: fixed;
+	top-right: 0;
+	
+}
